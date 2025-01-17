@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@ai-sdk/openai": "^0.0.36",
+    "@ai-sdk/openai": "^1.1.0",
     "ai": "^3.2.24",
     "composio-core": "0.5.3",
     "dotenv": "^16.4.5",
